@@ -21,3 +21,6 @@ $ yarn dev
 # Test application 
 $ yarn test
 ```
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
